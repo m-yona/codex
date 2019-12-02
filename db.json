@@ -1,0 +1,17 @@
+{
+  "Customer": [
+    { "CustomerId": 1, "Name": "Post 1" },
+    { "CustomerId": 2, "Name": "Post 2" },
+    { "CustomerId": 3, "Name": "Post 3" }
+  ],
+  "Item": [
+    { "ItemId": 1, "Name": "some comment", "Price": 1 },
+    { "ItemId": 2, "Name": "some comment", "Price": 1 }
+  ],
+  "Order": [
+    { "OrderId": 1, "OrderNo": "typicode", "CustomerId": 1, "PaymentMethod": "typicode", "GTotal": 1 }
+  ],
+  "OrderItems": [
+    { "OrderItemId": 1, "OrderId": 1, "ItemId": 1, "Quantity": 2 }
+  ]
+}
