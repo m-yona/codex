@@ -5,8 +5,10 @@
     { "CustomerId": 3, "Name": "Post 3" }
   ],
   "Item": [
-    { "ItemId": 1, "Name": "some comment", "Price": 1 },
-    { "ItemId": 2, "Name": "some comment", "Price": 1 }
+    { "ItemId": 1, "Name": "Chicken", "Price": 10 },
+    { "ItemId": 2, "Name": "Beef", "Price": 12 }
+    { "ItemId": 3, "Name": "Sandwich", "Price": 5 }
+    { "ItemId": 4, "Name": "Soup", "Price": 5 }
   ],
   "Order": [
     { "OrderId": 1, "OrderNo": "typicode", "CustomerId": 1, "PaymentMethod": "typicode", "GTotal": 1 }
