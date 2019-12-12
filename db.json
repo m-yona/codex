@@ -10,6 +10,12 @@
     { "ItemId": 3, "Name": "Sandwich", "Price": 5 },
     { "ItemId": 4, "Name": "Soup", "Price": 5 }
   ],
+  "Category": [
+    { "CategoryId": 1, "Name": "Bread" },
+    { "CategoryId": 2, "Name": "Meal" },
+    { "CategoryId": 3, "Name": "Vegetable" },
+    { "CategoryId": 4, "Name": "Others" }
+  ],
   "Order": [
     { "OrderId": 1, "OrderNo": "typicode", "CustomerId": 1, "PaymentMethod": "typicode", "GTotal": 1 }
   ],
